@@ -15,3 +15,7 @@ Pandas: For data manipulation and analysis.
 Matplotlib & Seaborn: For creating visualizations.
 Scikit-learn: For building predictive models.
 Jupyter Notebook: For documenting the analysis process.
+
+
+
+![image](https://github.com/Bhawani0038/T20-World-Cup-Data-Analytics/assets/103100587/e5b157d0-f595-4f51-bfc6-cb7e57a31d46)
